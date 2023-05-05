@@ -1,0 +1,15 @@
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\bin\Debug\net6.0\UkolALP.exe
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\bin\Debug\net6.0\UkolALP.deps.json
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\bin\Debug\net6.0\UkolALP.runtimeconfig.json
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\bin\Debug\net6.0\UkolALP.dll
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\bin\Debug\net6.0\UkolALP.pdb
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.csproj.AssemblyReference.cache
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.AssemblyInfoInputs.cache
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.AssemblyInfo.cs
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.csproj.CoreCompileInputs.cache
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.dll
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\refint\UkolALP.dll
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.pdb
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\UkolALP.genruntimeconfig.cache
+C:\Users\jakub.fryc\source\repos\UkolALP\UkolALP\obj\Debug\net6.0\ref\UkolALP.dll
